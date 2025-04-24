@@ -1,0 +1,9 @@
+train: /teamspace/studios/this_studio/data_files2/resized/images/train/ 
+val:  /teamspace/studios/this_studio/data_files2/resized/images/val/
+test: /teamspace/studios/this_studio/data_files2/resized/images/test/
+
+# number of classes
+nc: 1
+
+# class names
+names: ["Number Plate"]
