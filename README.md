@@ -16,14 +16,15 @@ Conda environment (convinient)
 4. Change train, test and val dataset location in data/number_plate.yaml
 
 ## Training Images
-![Screenshot from 2025-04-12 01-06-51](https://github.com/user-attachments/assets/88c8edda-ee1b-48c4-9f99-9ed7082b68e6)
+![Screenshot from 2025-04-12 01-06-51](https://github.com/user-attachments/assets/dcf6e585-eb59-4e1d-8504-3c5212c0e613)
 
 ## Testing Images
-![Screenshot from 2025-04-12 01-13-22](https://github.com/user-attachments/assets/1edd26fa-5f7e-4b34-8646-9e3a5ca75c7b)
- Results don't look the same as they randomly selected 100k for training, 50k for val and 50k for test 
+![Screenshot from 2025-04-12 01-13-22](https://github.com/user-attachments/assets/f31e5e1d-32b9-4ae8-8765-2e96a72dfdc1)
+
+ Results don't look the same. As in the research paper, they randomly selected 100k for training, 50k for val and 50k for test 
  I didn't look at the seed number.
 ## Detection
-![Screenshot from 2025-04-25 04-18-36](https://github.com/user-attachments/assets/1b16326c-599e-4960-acbf-9bef40c569df)
+![Screenshot from 2025-04-25 04-18-36](https://github.com/user-attachments/assets/dad851db-e23c-4cd4-ac20-f401a728551e)
 
 ## Useful articles
 [Step-by-step instructions for training YOLOv7 on a Custom Dataset](https://www.digitalocean.com/community/tutorials/train-yolov7-custom-data)
