@@ -1,6 +1,6 @@
 # YOLO SLD Implementation(not official)
 
-I made this implementation based on the research paper - [YOLO-SLD: An Attention Mechanism-Improved YOLO for License Plate Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10571945)
+As there was no publicly available implemenation of the research paper, I decided to make my own - [YOLO-SLD: An Attention Mechanism-Improved YOLO for License Plate Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10571945)
 
 ## Installation
 
